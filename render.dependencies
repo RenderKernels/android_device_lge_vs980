@@ -1,0 +1,13 @@
+[
+  {
+    "remote": "rk",
+    "repository":	"kernel_lge_msm8974-caf",
+    "target_path":	"kernel/lge/msm8974-caf"
+  },
+  {
+    "remote": "bb",
+    "repository":	"UBERTC/arm-eabi-5.2",
+    "target_path":	"toolchains/arm-eabi-5.2",
+    "revision": "master"
+  }
+]
