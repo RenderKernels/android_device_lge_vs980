@@ -1,7 +1,8 @@
 [
   {
     "repository":	"kernel_lge_msm8974-caf",
-    "target_path":	"kernel/lge/msm8974-caf"
+    "target_path":	"kernel/lge/msm8974-caf",
+    "revision":		"cm-13.0"
   },
   {
     "repository":	"android_device_lge_g2-common",
